@@ -1,0 +1,15 @@
+*.db
+*.db-journal
+
+*.exe
+*.o
+*.out
+build/
+dist/
+
+__pycache__/
+temp_batch.txt
+temp_import.txt
+
+venv/
+.env
